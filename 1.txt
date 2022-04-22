@@ -1,3 +1,1 @@
-Hello
-:wc
-
+Do or do not, there is no try.
